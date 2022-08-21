@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838856827953",
+    "project_id": "chatsapp--third-time",
+    "storage_bucket": "chatsapp--third-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838856827953:android:8e64072022e5baa6b6e110",
+        "android_client_info": {
+          "package_name": "com.example.chatsapp_thirdtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838856827953-4v2mmuomiehs3l6e8udjp1624m5btscg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjtgw_EGwVV_lngaSjcHKdO4TdErn94A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838856827953-4v2mmuomiehs3l6e8udjp1624m5btscg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
